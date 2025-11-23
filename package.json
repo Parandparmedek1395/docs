@@ -272,7 +272,7 @@
     "file-type": "20.0.0",
     "flat": "^6.0.1",
     "github-slugger": "^2.0.0",
-    "glob": "11.0.0",
+    "glob": "11.1.0",
     "got": "^14.4.2",
     "gray-matter": "^4.0.3",
     "hast-util-from-parse5": "^8.0.1",
